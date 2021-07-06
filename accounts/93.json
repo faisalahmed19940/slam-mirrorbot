@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "metal-voyager-319007",
+  "private_key_id": "ebf1efe34658ec473ae1d05b7690b3aa7a4df744",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrI3yGC+FBmb6m\n5EM0V65k2Pq+aRhsKkd3i6OOLLYAwV+pjrD20e54VYgRAaQe2kEs6Vw8to1dQmyZ\nJEoSIc28ZuwFEBu0t5fk7n+ZUrCQn5B2v3Utguk633F2xYimvEH3OSEYVucurOjW\npdskfVrc40ehO44UQAKUpHOscYGDJsMlkE5gouqADxZd66+O6HKdQOeRcRFhIF7d\nxcZd5S59yE+Zacs1nqudilKSfXOMaFeeg140RFIOY21KbCS7B4wGpoEA3EAtTsBF\nrLy2vFxqS/38J1UljCwDSn+snjMLP/bH59tnCy9U551W2yxnr7oehrokGQd6fe8+\nPMoJIQL3AgMBAAECggEADEDvtxddqxlLjd6VM0e97Gme1ohm38PNNzGP5eusonQ2\nGclmQV35sbMKGZGhAzaEaSdSW+SETbOmW/a9uPujpARIjPpAyZlFrnYnO76wdsJ+\nEQqXZMlVUspR8Pum061yGbYE+R2r0us9hrT8cmnpWhyJ8fD2NNv6c1MtFyFPcSj0\nnd4MjRhGWE2dEWNWQIavOGDdBHoIQvbb+VwjzG34ZIt0vdfNTWOQ1BnqN9M+1J01\ngDjGh2wM4NqAW//puBcaOUn8EDLQ8ArHxVeCzvUHj82Ay/eA329XYVzo11m8e5Ul\nxuIdNW24mLpIE2FgMkEgc74wxkbJOnXpuj+drtduKQKBgQDvDY06CopwHywb9tkn\nezv2MJPKc2BsNytMHewhVJrHuZXnoFR8+0KMsKDGtBBDaVFS1e6AWvyoAwfuKGZ3\n7RbJoHiLGgeSL9pvx+IxyNSkurWQA57Ml1rfU2RSLx9IgBmqBthYG7sPrMKBO4YZ\nCWX5m4Mddrr0AlikrJoDAjw/2QKBgQC3RWSS7HWGbk84+i9+IMU9mdDoWBTqLSRn\nN1HZKPH6LG7IdveCsxj6lSWmEcrL0V05kcQLCXKjJfykERFkdtNdQoQxaU5UhwDU\n1eHiVBGIc0X7iwZYqM3GFqNPKfC6MLekcylr6jxmjdQpIvkCefULO24TTyW/Yup/\nc4eq0wFnTwKBgBV0h+pfq9EoWxMfcpoCi30rGvieplbQFMi+HsVXDJVEaNnjH/If\nsvdhmux6mMMUHsJqhP9sKyUBMKMFaTz2QIdUKb2CVo+eT+KcdAa32a33O/hy+ruu\nEe/dUjG2HP6q0KLb/mraAk4D2Wkz6HMyzr46YOgyEdF4rHALNb9zYejxAoGAahMz\n/wX1j/VQzT2hN3NoNhtNGu3ATToLk+Ik8XgNdis5g7W31GIs1vx0agZqRkXLm4KO\n4YR6YYufCqcGVgugkp3pPWAiAjKRfJ6+uuzFqSBvJQR2i+JIF5sKsssnldyUrg4p\nr1hH1WPJpHWlgpVsCzA+qdZplrh92X7YyzqN2WkCgYBChQuyQK3wlAjcVIDkZdId\nT+oOL+68Mvghc1sEygAOpC3/Cu6YRRwO657cbtOuxppOtBarlsPf6CkM/cAsAxp7\n1Wdic/J2BceOgkn3ryvqJUFjyWhzSBruktylvDA5ZEclbNVaz1cU7zuccNrAQCJu\nvXEG25eBtxMYAXhkhdubcg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-agh6d05gl4oxs4uxkkz4corhll@metal-voyager-319007.iam.gserviceaccount.com",
+  "client_id": "110164577913801876615",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-agh6d05gl4oxs4uxkkz4corhll%40metal-voyager-319007.iam.gserviceaccount.com"
+}
